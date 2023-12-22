@@ -10,7 +10,7 @@ particular, their buying habits. Different age groups, for example, tend to
 spend their money in different ways, so brands need to be aware of who
 exactly is buying their product.
 
-— Segmentation also focuses more on the personality of the consumer,
+- Segmentation also focuses more on the personality of the consumer,
 including their opinions, interests, reviews, and rating. Breaking down a
 large customer base into more manageable clusters, making it easier to
 identify your target audience and launch campaigns and promote the
