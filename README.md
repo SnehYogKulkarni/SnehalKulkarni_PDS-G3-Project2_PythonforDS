@@ -34,6 +34,7 @@ for Product Size Recommendation in Metric Spaces". RecSys, 2018.
 Machine Learning". 2021.
 
 <h3> Project Objective:</h3>
+
 Based on the given users and items data of an e-commerce company, segment
 the similar user and items into suitable clusters. Analyze the clusters and provide
 your insights to help the organization promote their business.
