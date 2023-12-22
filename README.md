@@ -1,6 +1,7 @@
 <h3> Domain:</h3>
  E-commerce
 <h3>Business Context:</h3>
+
 - Customer segmentation is one of the most important marketing tools at your
 disposal, because it can help a business to better understand its target audience.
 This is because it groups customers based on common characteristics.
@@ -25,8 +26,10 @@ information like reviews, ratings, product categories, catalog sizes, customers√
 measurements (etc.)
 
 <h3> Data Citation:</h3>
+
 - Rishabh Misra, Mengting Wan, Julian McAuley "Decomposing Fit Semantics
 for Product Size Recommendation in Metric Spaces". RecSys, 2018.
+
 - Rishabh Misra, Jigyasa Grover "Sculpting Data for ML: The first act of
 Machine Learning". 2021.
 
