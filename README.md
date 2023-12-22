@@ -1,16 +1,16 @@
 <h3> Domain:</h3>
-â—‹ E-commerce
+ E-commerce
 <h3>Business Context:</h3>
-â— Customer segmentation is one of the most important marketing tools at your
+- Customer segmentation is one of the most important marketing tools at your
 disposal, because it can help a business to better understand its target audience.
 This is because it groups customers based on common characteristics.
 
-â— Segmentation can be based on the customerâ€™s habits and lifestyle, in
+- Segmentation can be based on the customerâ€™s habits and lifestyle, in
 particular, their buying habits. Different age groups, for example, tend to
 spend their money in different ways, so brands need to be aware of who
 exactly is buying their product.
 
-â— Segmentation also focuses more on the personality of the consumer,
+— Segmentation also focuses more on the personality of the consumer,
 including their opinions, interests, reviews, and rating. Breaking down a
 large customer base into more manageable clusters, making it easier to
 identify your target audience and launch campaigns and promote the
@@ -25,9 +25,9 @@ information like reviews, ratings, product categories, catalog sizes, customers�
 measurements (etc.)
 
 <h3> Data Citation:</h3>
-â— Rishabh Misra, Mengting Wan, Julian McAuley "Decomposing Fit Semantics
+- Rishabh Misra, Mengting Wan, Julian McAuley "Decomposing Fit Semantics
 for Product Size Recommendation in Metric Spaces". RecSys, 2018.
-â— Rishabh Misra, Jigyasa Grover "Sculpting Data for ML: The first act of
+- Rishabh Misra, Jigyasa Grover "Sculpting Data for ML: The first act of
 Machine Learning". 2021.
 
 <h3> Project Objective:</h3>
